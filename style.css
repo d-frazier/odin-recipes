@@ -1,0 +1,14 @@
+
+* {
+    background-color: rgb(251, 238, 255);
+}
+
+.center {
+    text-align: center;
+    display: block;
+}
+
+ul, ol {
+    text-align:left;
+    display:inline-block;
+}
